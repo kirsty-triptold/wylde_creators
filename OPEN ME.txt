@@ -1,0 +1,18 @@
+TRIPTOLD x WYLDE MARKET — offline preview
+=========================================
+
+Double-click  index.html  to open the site in your browser.
+
+Everything is self-contained: fonts, images and styles are all inside this
+folder, so it works with no internet connection and nothing installed.
+You can zip this folder and email it — it will open the same way for anyone.
+
+Pages
+  index.html      Know the brand
+  match.html      How we match
+  creators.html   The creators   (each creator has a page under creators/)
+  where.html      Where they are (the map needs internet for its base tiles)
+  pilot.html      The pilot
+
+Note: this is a preview copy, not the live site. The real build is in
+wylde-site/ and is what gets deployed.
